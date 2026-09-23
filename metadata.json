@@ -1,0 +1,6 @@
+{
+  "name": "ฟาร์มสุข เกษตรวัยใส (GreenThumb Farm Academy)",
+  "description": "เกมปลูกผักจำลองการเรียนรู้พืช แสงแดด น้ำ สิ่งแวดล้อม การบริหารการเงิน และการรู้ทันมิจฉาชีพสำหรับเยาวชน",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
